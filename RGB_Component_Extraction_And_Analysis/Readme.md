@@ -41,7 +41,7 @@ This MATLAB script reads an image and displays its RGB components in separate su
 - Desaturation Method :
 
   ![](https://github.com/user-attachments/assets/da813fe2-d44f-4c9e-847b-c3dfaa4148f9)
-
+ 
 
 ## Author
 
