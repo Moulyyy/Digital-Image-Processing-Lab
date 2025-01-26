@@ -25,7 +25,8 @@ This MATLAB script performs bit plane slicing on a grayscale image to visualize 
 
 ## Output
 
-![](./output_image.png)
+![]![output](https://github.com/user-attachments/assets/27d6b6c9-8700-42ed-aa8e-01fcdf39b076)
+
 
 ## Theory
 
